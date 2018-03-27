@@ -1,0 +1,10 @@
+{
+  "name": "heynocoin",
+  "version": "1.0.0",
+  "description": "HeynoCoin, the most awesome coin made in NodeJs",
+  "main": "src/server.js",
+  "repository": "https://github.com/HyeonSik/heynocoin.git",
+  "author": "hyunsik <shs9589@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
